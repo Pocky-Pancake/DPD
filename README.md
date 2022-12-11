@@ -11,4 +11,6 @@ print(DecalcPerms(739273621506))
 ['start_embedded_activities', 'use_external_stickers', 'create_public_threads', 'manage_threads', 'manage_webhooks', 'speak', 'use_external_emojis', 'embed_links', 'kick_members']
 ```
 
+The string names are the same as the permission names on Nextcord.
+
 That's all.
