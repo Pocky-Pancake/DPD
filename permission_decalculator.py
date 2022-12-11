@@ -1,4 +1,4 @@
-async def DecalcPerms(PermValue:int):
+def DecalcPerms(PermValue:int):
     "Decalculates the permission value and outputs a list of permission names in strings."
     if PermValue == 0:
         return []
